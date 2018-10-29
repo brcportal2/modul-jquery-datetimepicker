@@ -1,5 +1,5 @@
 {
-	"name": "modul-bootstrap.tooltip",
+	"name": "modul-jquery-datetimepicker",
 	"license": "MIT",
 	"scripts": {
 		"build": "babel ./jquery-datetimepicker.js --out-file ./index.js --no-comments"
